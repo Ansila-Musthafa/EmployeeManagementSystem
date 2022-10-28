@@ -1,0 +1,26 @@
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\appsettings.json
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.staticwebassets.runtime.json
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.exe
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.deps.json
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.runtimeconfig.json
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.dll
+C:\Users\amusthafa\source\repos\Employee Management System\bin\Debug\net6.0\Employee Management System.pdb
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.AssemblyInfoInputs.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.AssemblyInfo.cs
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.RazorAssemblyInfo.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.RazorAssemblyInfo.cs
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\scopedcss\bundle\Employee Management System.styles.css
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\scopedcss\projectbundle\Employee Management System.bundle.scp.css
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.dll
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\refint\Employee Management System.dll
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.pdb
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\Employee Management System.genruntimeconfig.cache
+C:\Users\amusthafa\source\repos\Employee Management System\obj\Debug\net6.0\ref\Employee Management System.dll
